@@ -1,4 +1,10 @@
+<<<<<<< .mine
 google master
 
+=======
+google master
 
+>>>>>>> .theirs
+
+dev
 master branch
