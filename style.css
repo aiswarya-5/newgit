@@ -5,9 +5,7 @@
 }
 header{
 	display:flex;
-	justify-content: flex-end;
-	padding: 1%;
-    	border-bottom: 1px solid #dcdcdc;
+	
 }
 header .material-icons{
 	color: #673ab7;
